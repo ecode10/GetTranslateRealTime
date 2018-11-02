@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslateData", "TranslateData\TranslateData.csproj", "{30667532-37EC-4E68-B6F6-8BD2EF70D333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30667532-37EC-4E68-B6F6-8BD2EF70D333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30667532-37EC-4E68-B6F6-8BD2EF70D333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30667532-37EC-4E68-B6F6-8BD2EF70D333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30667532-37EC-4E68-B6F6-8BD2EF70D333}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27B2CE71-C3DC-4221-9157-EA3B694D0CA5}
+	EndGlobalSection
+EndGlobal
