@@ -1,6 +1,12 @@
 # GetTranslateRealTime
 Translate the texts in real time using Google Translate
 
+# Tools
+1. Languagem: C#
+2. Tool: Visual Studio 2017 
+3. Platform: .NET Core
+
+# Functions
 I need the class that:
 
 1. I write a portuguese text and pass to Translate tools
