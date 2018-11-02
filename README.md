@@ -8,6 +8,15 @@ I need the class that:
 3. The return is the new text translated
 
 I use the base url:
-https://weblog.west-wind.com/posts/2011/Aug/06/Translating-with-Google-Translate-without-API-and-C-Code
-http://code.google.com/apis/language/translate/overview.html
-http://translate.google.com/
+
+a) https://weblog.west-wind.com/posts/2011/Aug/06/Translating-with-Google-Translate-without-API-and-C-Code
+
+b) http://code.google.com/apis/language/translate/overview.html
+
+c) http://translate.google.com/
+
+The result was good.
+
+# Issues
+1. You need stay connect all the time
+2. You can use to little words (maximus 200 words)
